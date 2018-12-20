@@ -7,3 +7,7 @@ Ceres OS | C# Ile Yazılmış Türkiyenin Ilk Sistemi !
 <p> gui_start - GUI BASLATICI (DEMO) </p>
 <p> clear - TERMINAL TEMIZLER </p>
 <hr></hr>
+<strong> RESIMLER </strong>
+<hr></hr>
+<p> PEK YAKINDA ! </p>
+<hr></hr>

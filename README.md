@@ -1,6 +1,6 @@
 # ceres-os-projesi
 Ceres OS | C# Ile Yazılmış Türkiyenin Ilk Sistemi !
-
+<hr></hr>
 <strong> KOMUTLARI </strong>
 <hr></hr>
 <p> hakkinda - YAZARLAR </p>

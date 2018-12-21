@@ -9,9 +9,9 @@ Ceres OS | C# Ile Yazılmış Türkiyenin Ilk Sistemi !
 <p> konsol_mavi - MAVI KONSOL </p>
 <p> konsol_hacker - HACKER TEMASI </p>
 <p> konsol_cccp - SOVYET TEMASI </p>
-<p> konsol_ottoman - OSMANLI MODU </p>
-<p> konsol_orijinal - ORIJINAL MOD</p>
-<p> konsol_kirmizi - KIRMIZI KONSOL </p>
+<p> konsol_ottoman - OSMANLI TEMASI </p>
+<p> konsol_orijinal - ORIJINAL TEMA </p>
+<p> konsol_kirmizi - KIRMIZI TEMA </p>
 <hr></hr>
 <strong> RESIMLER </strong>
 <hr></hr>

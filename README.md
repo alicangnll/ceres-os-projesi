@@ -65,5 +65,3 @@ Ali Can Gönüllü
 
 <hr></hr>
 </html></body>
-
-<hr></hr>

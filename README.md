@@ -5,8 +5,8 @@ Ceres OS | C# Ile Yazılmış Türkiyenin Ilk Sistemi !
 <hr></hr>
 <p> konsol_yardim - KONSOL KOMUTLARI </p>
 <p> hakkinda - YAZARLAR </p>
-<p> gui_start - GUI BASLATICI (DEMO) </p>
-<p> clear - TERMINAL TEMIZLER </p>
+<p> gui_basla - GUI BASLATICI (DEMO) </p>
+<p> temizle - TERMINAL TEMIZLER </p>
 <p> konsol_mavi - MAVI KONSOL </p>
 <p> konsol_hacker - HACKER TEMASI </p>
 <p> konsol_cccp - SOVYET TEMASI </p>

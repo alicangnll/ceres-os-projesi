@@ -1,7 +1,7 @@
 # ceres-os-projesi
 Ceres OS | C# Ile Yazılmış Türkiyenin Ilk Sistemi !
 <hr></hr>
-<strong> KOMUTLARI </strong>
+<strong><h3> KOMUTLARI </h3></strong>
 <hr></hr>
 <p> hakkinda - YAZARLAR </p>
 <p> gui_start - GUI BASLATICI (DEMO) </p>
@@ -13,7 +13,7 @@ Ceres OS | C# Ile Yazılmış Türkiyenin Ilk Sistemi !
 <p> konsol_orijinal - ORIJINAL TEMA </p>
 <p> konsol_kirmizi - KIRMIZI TEMA </p>
 <hr></hr>
-<strong> RESIMLER </strong>
+<strong><h3> RESIMLER </h3></strong>
 <hr></hr>
 <p> PEK YAKINDA ! </p>
 <hr></hr>

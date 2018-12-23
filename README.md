@@ -14,6 +14,7 @@ Ceres OS | C# Ile Yazılmış Türkiyenin Ilk Sistemi !
 <p> konsol_kirmizi - KIRMIZI TEMA </p>
 <hr></hr>
 <strong><h3> RESIMLER </h3></strong>
+<img src="https://i.hizliresim.com/v6RBzR.jpg" alt="Açılış"/>
 <hr></hr>
 <p> PEK YAKINDA ! </p>
 <hr></hr>

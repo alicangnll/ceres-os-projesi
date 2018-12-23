@@ -24,5 +24,7 @@ Ceres OS | C# Ile Yazılmış Türkiyenin Ilk Sistemi !
 <img src="https://alicangonullu.github.io/ceres-os-projesi/Pics/8.jpg" alt="Açılış"/>
 <img src="https://alicangonullu.github.io/ceres-os-projesi/Pics/9.jpg" alt="Açılış"/>
 <hr></hr>
+<strong><h3> LISANS BILDIRISI VE BUG BULMA IZINLERI</h3></strong>
+<hr></hr>
 <p> PEK YAKINDA ! </p>
 <hr></hr>

@@ -3,6 +3,7 @@ Ceres OS | C# Ile Yazılmış Türkiyenin Ilk Sistemi !
 <hr></hr>
 <strong><h3> KOMUTLARI </h3></strong>
 <hr></hr>
+<p> konsol_yardim - KONSOL KOMUTLARI </p>
 <p> hakkinda - YAZARLAR </p>
 <p> gui_start - GUI BASLATICI (DEMO) </p>
 <p> clear - TERMINAL TEMIZLER </p>

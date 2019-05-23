@@ -57,12 +57,11 @@ düzenleyebilir (Kaynak belirtme şartlarına uyulmazsa lisanslar gereği telif 
 Madde 1 : Bu Hatanın DENEME CİHAZI HARİCİNDE başka bir kullanıcıya zarar verme amaçlı kullanılmamış olması gerekmektedir
 Madde 2 : Buglar ekran görüntüsü ve hata kaynaklarıyla desteklenmelidir
 Madde 3 : Bugların nasıl bulunduğu ve bulan kişinin adı ve soyadı verilmelidir ( HoF listesi için )
-Madde 4 : Buglar alicangonullu1907@gmail.com veya god3err@bk.ru adreslerine de bildirilebilir aksi halde mağdur olmanız söz konusu olabilir
+Madde 4 : Buglar alicangonullu1907@gmail.com adreslerine de bildirilebilir aksi halde mağdur olmanız söz konusu olabilir
 Madde 5 : Bulunan bugdan sizin dışınızda KİMSENİN HABER ALMAMASI gerekmektedir aksi takdirde bug bildiriniz GEÇERSİZ sayılacaktır
 
 Ali Can Gönüllü
 </p></strong></pre>
-<p>Kaynak : http://god3err.alwaysdata.net/lisans.html</p>
 
 <hr></hr>
 </html></body>

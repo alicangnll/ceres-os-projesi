@@ -31,7 +31,7 @@ Ceres OS | C# Ile Yazılmış Türkiyenin Ilk Sistemi !
 <html>
 <body>
 
-<p><strong>God3err CeresOS for PC</strong></p>
+<p><strong> CeresOS for PC</strong></p>
 <hr></hr>
 
 <p><strong>Projenin Amacı :</strong><p>
